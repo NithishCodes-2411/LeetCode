@@ -1,0 +1,58 @@
+class Solution {
+    public int[][] sortTheStudents(int[][] score, int k) {
+        // int m = score.length;
+        // int n= score[1].length;
+
+        // Map<Integer, Integer> keyValueMap = new HashMap<>();
+
+        // int [] kmarks = new int [m];
+        // int max = 0;
+        // for(int i=0; i<m; i++){
+        //     keyValueMap.put(i , score[i][k]);
+        //     if(score[i][k]>max) max = score[i][k];
+        // }
+        // int [][] ans = new int [m][n];
+        // int col = 0;
+        // for(int i=1; i<=max ; i++){
+        //     for(Map.Entry<Integer, Integer> map : keyValueMap.entrySet()){
+        //         int key = map.getKey();
+        //         int val = map.getValue();
+
+        //         if(val==i){
+        //             for(int j=0;j<n; j++){
+        //                 score[key][j] = ans [col][j];
+        //             }
+
+        //         }
+        //         col++;
+        //     }
+
+        // }
+        // return ans;
+
+                HashMap<Integer,Integer>h=new HashMap<>();
+        int row=score.length;
+        int col=score[0].length;
+       
+        int arr[]=new int[row];
+        int ind=0;
+        for(int i=0;i<row;i++){
+            h.put(score[i][k],i);
+            arr[ind++]=score[i][k];
+        }
+        Arrays.sort(arr);
+        int ind1=row-1;
+        int ans[][]=new int[row][col];
+        for(int i=0;i<row;i++){
+             int j=h.get(arr[i]);
+             ans[ind1--]=score[j];
+        }
+        return ans;
+       
+    
+
+
+
+        
+    }
+}
