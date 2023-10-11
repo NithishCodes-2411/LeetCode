@@ -1,2 +1,2 @@
 # LeetCode
-Rearrage array Elemnts by sign
+Minimum Recolors to Get K Consecutive Black Blocks
