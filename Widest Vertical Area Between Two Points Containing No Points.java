@@ -1,3 +1,4 @@
+
 class Solution {
     public int maxWidthOfVerticalArea(int[][] points) {
 
@@ -8,7 +9,7 @@ class Solution {
         Arrays.sort(xArr);
         int ans = 0;
         for(int i=0;i<points.length-1; i++){
-            int diff = Math.abs(xArr[i]-xArr[i+1]);
+            int diff = xArr[i+1]-xArr[i];
             if(diff>ans) ans = diff;
         }
         return ans;
