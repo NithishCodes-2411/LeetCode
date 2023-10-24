@@ -1,2 +1,2 @@
 # LeetCode
-Minimum Recolors to Get K Consecutive Black Blocks
+https://leetcode.com/Nithish2411/
