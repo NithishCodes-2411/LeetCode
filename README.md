@@ -23,4 +23,16 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
