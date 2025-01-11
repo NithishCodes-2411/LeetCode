@@ -16,6 +16,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0120-triangle](https://github.com/NithishCodes-2411/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/NithishCodes-2411/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0213-house-robber-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0120-triangle](https://github.com/NithishCodes-2411/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/NithishCodes-2411/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0213-house-robber-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -56,4 +58,5 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | ------- |
 | [0063-unique-paths-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
