@@ -17,21 +17,22 @@ class Solution(object):
 
 
 
-        dp =[ [-1 for _ in range(col)] for _ in range(row) ]
+        dp = [-1 for _ in range(col)] 
         n = 0
         for c in range(col):
             n = n + grid[0][c]
-            dp[0][c] = n
+            dp[c] = n
             
         for r in range(1,row):
+            new_dp = []
             for c in range(col):
                 if c >= 1:
-                    dp[r][c] = grid[r][c] + min( dp[r][c-1] , dp[r-1][c] ) 
+                    new_dp.append(grid[r][c] + min( dp[c] , new_dp[-1] ) )
                 else:
-                    dp[r][c] = grid[r][c] + dp[r-1][c]
+                    new_dp.append( grid[r][c] + dp[c] )
+            dp = new_dp
                     
-                # print(dp)
-        return dp[row-1][col-1]
+        return dp[-1]
 
 
 
