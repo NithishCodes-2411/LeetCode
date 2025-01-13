@@ -10,7 +10,7 @@ class Solution(object):
 
         def f(s,p):
 
-            if p == n:
+            if p == -1:
                 return False
             
             if s == ts-s:
@@ -18,14 +18,14 @@ class Solution(object):
             if (s,p)  in memo:
                 return memo[(s,p)]
 
-            not_pick = f(s,p+1)
+            not_pick = f(s,p-1)
             if not not_pick :
-                pick = f(s+nums[p] , p+1)
+                pick = f(s+nums[p] , p-1)
                 memo[(s,p)]= pick 
                 return memo[(s,p)]
             memo[(s,p)] = not_pick
             return memo[(s,p)]
 
 
-        return f(0,0)
+        return f(0,n-1)
         
