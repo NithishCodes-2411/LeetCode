@@ -16,6 +16,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0120-triangle](https://github.com/NithishCodes-2411/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/NithishCodes-2411/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/NithishCodes-2411/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -47,6 +48,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0120-triangle](https://github.com/NithishCodes-2411/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/NithishCodes-2411/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/NithishCodes-2411/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -86,4 +88,8 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/NithishCodes-2411/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
