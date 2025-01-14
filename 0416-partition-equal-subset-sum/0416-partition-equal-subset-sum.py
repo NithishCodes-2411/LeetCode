@@ -4,12 +4,8 @@ class Solution(object):
         n = len(nums)
         if ts%2==1:
             return False
-        
         memo = {}
-        
-
         def f(s,p):
-
             if p == -1:
                 return False
             
@@ -19,11 +15,9 @@ class Solution(object):
                 return memo[(s,p)]
 
             not_pick = f(s,p-1)
-            if not not_pick :
-                pick = f(s+nums[p] , p-1)
-                memo[(s,p)]= pick 
-                return memo[(s,p)]
-            memo[(s,p)] = not_pick
+            pick = f(s+nums[p] , p-1)
+
+            memo[(s,p)] = not_pick or pick 
             return memo[(s,p)]
 
 
