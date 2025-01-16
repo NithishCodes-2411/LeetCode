@@ -39,6 +39,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
+| [0214-shortest-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/NithishCodes-2411/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -158,4 +159,16 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
