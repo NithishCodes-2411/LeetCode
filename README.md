@@ -10,6 +10,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -49,6 +50,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/NithishCodes-2411/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -121,4 +123,8 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [1022-unique-paths-iii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1022-unique-paths-iii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
