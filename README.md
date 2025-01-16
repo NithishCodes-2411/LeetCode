@@ -22,6 +22,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0724-find-pivot-index](https://github.com/NithishCodes-2411/LeetCode/tree/master/0724-find-pivot-index) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/NithishCodes-2411/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -139,6 +140,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/NithishCodes-2411/LeetCode/tree/master/0724-find-pivot-index) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Backtracking
 |  |
