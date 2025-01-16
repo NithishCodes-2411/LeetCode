@@ -29,6 +29,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/NithishCodes-2411/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NithishCodes-2411/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0290-word-pattern](https://github.com/NithishCodes-2411/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NithishCodes-2411/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
