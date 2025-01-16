@@ -18,6 +18,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0198-house-robber](https://github.com/NithishCodes-2411/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/NithishCodes-2411/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -60,6 +61,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0198-house-robber](https://github.com/NithishCodes-2411/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/NithishCodes-2411/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/NithishCodes-2411/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -70,6 +72,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Combinatorics
 |  |
 | ------- |
@@ -79,6 +82,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | ------- |
 | [0063-unique-paths-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1559-cherry-pickup-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -108,6 +112,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/NithishCodes-2411/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -132,5 +137,14 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/NithishCodes-2411/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
