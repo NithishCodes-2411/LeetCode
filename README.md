@@ -17,6 +17,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0120-triangle](https://github.com/NithishCodes-2411/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/NithishCodes-2411/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/NithishCodes-2411/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -65,6 +66,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0120-triangle](https://github.com/NithishCodes-2411/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/NithishCodes-2411/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/NithishCodes-2411/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -102,6 +104,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
