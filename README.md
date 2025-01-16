@@ -37,6 +37,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/NithishCodes-2411/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -53,6 +54,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/NithishCodes-2411/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -93,6 +95,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
