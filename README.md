@@ -12,6 +12,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | ------- |
 | [0045-jump-game-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/NithishCodes-2411/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/NithishCodes-2411/LeetCode/tree/master/0120-triangle) |
@@ -52,6 +53,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/NithishCodes-2411/LeetCode/tree/master/0056-merge-intervals) |
 ## Math
 |  |
 | ------- |
