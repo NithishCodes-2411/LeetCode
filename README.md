@@ -41,6 +41,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0387-first-unique-character-in-a-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3474-better-compression-of-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/3474-better-compression-of-string) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NithishCodes-2411/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
@@ -52,12 +53,14 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0387-first-unique-character-in-a-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/NithishCodes-2411/LeetCode/tree/master/0443-string-compression) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3474-better-compression-of-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/3474-better-compression-of-string) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NithishCodes-2411/LeetCode/tree/master/0056-merge-intervals) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3474-better-compression-of-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/3474-better-compression-of-string) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +148,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3474-better-compression-of-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/3474-better-compression-of-string) |
 ## Prefix Sum
 |  |
 | ------- |
