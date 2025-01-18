@@ -50,6 +50,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0214-shortest-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/NithishCodes-2411/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/NithishCodes-2411/LeetCode/tree/master/0443-string-compression) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
@@ -108,6 +109,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0443-string-compression](https://github.com/NithishCodes-2411/LeetCode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
