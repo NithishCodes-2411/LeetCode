@@ -54,6 +54,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0290-word-pattern](https://github.com/NithishCodes-2411/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/NithishCodes-2411/LeetCode/tree/master/0443-string-compression) |
+| [1250-longest-common-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3474-better-compression-of-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/3474-better-compression-of-string) |
 ## Sorting
@@ -88,6 +89,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0646-maximum-length-of-pair-chain](https://github.com/NithishCodes-2411/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/NithishCodes-2411/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1250-longest-common-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
