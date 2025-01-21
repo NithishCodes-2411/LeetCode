@@ -56,6 +56,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0443-string-compression](https://github.com/NithishCodes-2411/LeetCode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/NithishCodes-2411/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [1170-shortest-common-supersequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -94,6 +95,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0646-maximum-length-of-pair-chain](https://github.com/NithishCodes-2411/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/NithishCodes-2411/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1170-shortest-common-supersequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1559-cherry-pickup-ii) |
