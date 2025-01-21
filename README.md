@@ -49,6 +49,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/NithishCodes-2411/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
 | [0214-shortest-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/NithishCodes-2411/LeetCode/tree/master/0290-word-pattern) |
@@ -79,6 +80,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/NithishCodes-2411/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/NithishCodes-2411/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -180,6 +182,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/NithishCodes-2411/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NithishCodes-2411/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -219,4 +222,8 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/NithishCodes-2411/LeetCode/tree/master/0729-my-calendar-i) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/NithishCodes-2411/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
