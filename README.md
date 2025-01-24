@@ -33,6 +33,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/NithishCodes-2411/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1087-longest-arithmetic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -47,6 +48,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/NithishCodes-2411/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1087-longest-arithmetic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3474-better-compression-of-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/3474-better-compression-of-string) |
@@ -109,6 +111,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NithishCodes-2411/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/NithishCodes-2411/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1087-longest-arithmetic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -150,6 +153,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/NithishCodes-2411/LeetCode/tree/master/0729-my-calendar-i) |
+| [1087-longest-arithmetic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2904-sorting-three-groups](https://github.com/NithishCodes-2411/LeetCode/tree/master/2904-sorting-three-groups) |
 ## Bit Manipulation
