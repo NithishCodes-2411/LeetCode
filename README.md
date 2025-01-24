@@ -39,6 +39,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [2189-maximum-path-quality-of-a-graph](https://github.com/NithishCodes-2411/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/NithishCodes-2411/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
+| [2904-sorting-three-groups](https://github.com/NithishCodes-2411/LeetCode/tree/master/2904-sorting-three-groups) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NithishCodes-2411/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/NithishCodes-2411/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2562-count-ways-to-build-good-strings](https://github.com/NithishCodes-2411/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2904-sorting-three-groups](https://github.com/NithishCodes-2411/LeetCode/tree/master/2904-sorting-three-groups) |
 ## Memoization
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0300-longest-increasing-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/NithishCodes-2411/LeetCode/tree/master/0729-my-calendar-i) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2904-sorting-three-groups](https://github.com/NithishCodes-2411/LeetCode/tree/master/2904-sorting-three-groups) |
 ## Bit Manipulation
 |  |
 | ------- |
