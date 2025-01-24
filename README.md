@@ -37,6 +37,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/NithishCodes-2411/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2426-maximum-profit-from-trading-stocks](https://github.com/NithishCodes-2411/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NithishCodes-2411/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [1559-cherry-pickup-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2426-maximum-profit-from-trading-stocks](https://github.com/NithishCodes-2411/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2562-count-ways-to-build-good-strings](https://github.com/NithishCodes-2411/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Memoization
 |  |
