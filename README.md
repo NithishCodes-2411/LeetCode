@@ -30,6 +30,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NithishCodes-2411/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/NithishCodes-2411/LeetCode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/NithishCodes-2411/LeetCode/tree/master/0729-my-calendar-i) |
+| [0875-longest-mountain-in-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/NithishCodes-2411/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -110,6 +111,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0646-maximum-length-of-pair-chain](https://github.com/NithishCodes-2411/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NithishCodes-2411/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NithishCodes-2411/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0875-longest-mountain-in-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/NithishCodes-2411/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
@@ -148,6 +150,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/NithishCodes-2411/LeetCode/tree/master/0443-string-compression) |
+| [0875-longest-mountain-in-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
@@ -248,4 +251,8 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/NithishCodes-2411/LeetCode/tree/master/0044-wildcard-matching) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
