@@ -10,6 +10,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NithishCodes-2411/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NithishCodes-2411/LeetCode/tree/master/0056-merge-intervals) |
@@ -156,6 +157,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NithishCodes-2411/LeetCode/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/NithishCodes-2411/LeetCode/tree/master/0729-my-calendar-i) |
 | [1087-longest-arithmetic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
