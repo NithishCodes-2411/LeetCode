@@ -45,6 +45,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [1559-cherry-pickup-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/NithishCodes-2411/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/NithishCodes-2411/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -128,6 +129,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/NithishCodes-2411/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/NithishCodes-2411/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
@@ -152,6 +154,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1559-cherry-pickup-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/NithishCodes-2411/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Two Pointers
 |  |
