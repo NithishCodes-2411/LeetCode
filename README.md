@@ -76,6 +76,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0516-longest-palindromic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/NithishCodes-2411/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NithishCodes-2411/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1060-longest-repeating-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/1060-longest-repeating-substring) |
 | [1170-shortest-common-supersequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -123,6 +124,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0875-longest-mountain-in-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/NithishCodes-2411/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1060-longest-repeating-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/1060-longest-repeating-substring) |
 | [1087-longest-arithmetic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -177,6 +179,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0300-longest-increasing-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/NithishCodes-2411/LeetCode/tree/master/0729-my-calendar-i) |
+| [1060-longest-repeating-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/1060-longest-repeating-substring) |
 | [1087-longest-arithmetic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -250,6 +253,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1060-longest-repeating-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/1060-longest-repeating-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -258,6 +262,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1060-longest-repeating-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/1060-longest-repeating-substring) |
 ## Design
 |  |
 | ------- |
@@ -274,4 +279,8 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0875-longest-mountain-in-array) |
+## Suffix Array
+|  |
+| ------- |
+| [1060-longest-repeating-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/1060-longest-repeating-substring) |
 <!---LeetCode Topics End-->
