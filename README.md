@@ -50,6 +50,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [2189-maximum-path-quality-of-a-graph](https://github.com/NithishCodes-2411/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/NithishCodes-2411/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
+| [2551-apply-operations-to-an-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2904-sorting-three-groups](https://github.com/NithishCodes-2411/LeetCode/tree/master/2904-sorting-three-groups) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NithishCodes-2411/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -166,6 +167,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0875-longest-mountain-in-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2551-apply-operations-to-an-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -283,4 +285,8 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [1060-longest-repeating-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/1060-longest-repeating-substring) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
