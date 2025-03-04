@@ -6,11 +6,14 @@ class Solution:
             if nums[i] == nums[i+1]:
                 nums[i] = nums[i] + nums[i+1]
                 nums[i+1] = 0
-        ans = [0] * n 
-        i = 0
-        for num in nums:
-            if num != 0:
-                ans[i] = num
-                i = i+1
-        return ans
+        
+        p = 0
+        for i in range(0,n):
+            if nums[i] != 0:
+                nums[p] = nums[i]
+                p = p+1
+        for i in range(p,n):
+            nums[i] = 0
+        return nums
+
         
