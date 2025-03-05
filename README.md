@@ -51,6 +51,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/NithishCodes-2411/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2551-apply-operations-to-an-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NithishCodes-2411/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2904-sorting-three-groups](https://github.com/NithishCodes-2411/LeetCode/tree/master/2904-sorting-three-groups) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NithishCodes-2411/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -62,6 +63,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [1087-longest-arithmetic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NithishCodes-2411/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3474-better-compression-of-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/3474-better-compression-of-string) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NithishCodes-2411/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
@@ -168,6 +170,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [1798-max-number-of-k-sum-pairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NithishCodes-2411/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2551-apply-operations-to-an-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NithishCodes-2411/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
