@@ -38,6 +38,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0724-find-pivot-index](https://github.com/NithishCodes-2411/LeetCode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/NithishCodes-2411/LeetCode/tree/master/0729-my-calendar-i) |
 | [0875-longest-mountain-in-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0965-unique-email-addresses](https://github.com/NithishCodes-2411/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/NithishCodes-2411/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -60,6 +61,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/NithishCodes-2411/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0965-unique-email-addresses](https://github.com/NithishCodes-2411/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1087-longest-arithmetic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -79,6 +81,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0516-longest-palindromic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/NithishCodes-2411/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NithishCodes-2411/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0965-unique-email-addresses](https://github.com/NithishCodes-2411/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1060-longest-repeating-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/1060-longest-repeating-substring) |
 | [1170-shortest-common-supersequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1250-longest-common-subsequence) |
