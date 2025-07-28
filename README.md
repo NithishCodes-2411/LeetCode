@@ -27,6 +27,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NithishCodes-2411/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/NithishCodes-2411/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/NithishCodes-2411/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/NithishCodes-2411/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -230,6 +231,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/NithishCodes-2411/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/NithishCodes-2411/LeetCode/tree/master/0724-find-pivot-index) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Backtracking
