@@ -42,6 +42,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/NithishCodes-2411/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1041-available-captures-for-rook](https://github.com/NithishCodes-2411/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1044-find-common-characters](https://github.com/NithishCodes-2411/LeetCode/tree/master/1044-find-common-characters) |
 | [1087-longest-arithmetic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -164,6 +165,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1041-available-captures-for-rook](https://github.com/NithishCodes-2411/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1559-cherry-pickup-ii](https://github.com/NithishCodes-2411/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/NithishCodes-2411/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/NithishCodes-2411/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -297,5 +299,6 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Simulation
 |  |
 | ------- |
+| [1041-available-captures-for-rook](https://github.com/NithishCodes-2411/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [2551-apply-operations-to-an-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
