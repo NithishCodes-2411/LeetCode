@@ -31,6 +31,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0238-product-of-array-except-self](https://github.com/NithishCodes-2411/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0281-zigzag-iterator](https://github.com/NithishCodes-2411/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/NithishCodes-2411/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/NithishCodes-2411/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -235,6 +236,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NithishCodes-2411/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/NithishCodes-2411/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/NithishCodes-2411/LeetCode/tree/master/0724-find-pivot-index) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NithishCodes-2411/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Backtracking
@@ -285,6 +287,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0281-zigzag-iterator](https://github.com/NithishCodes-2411/LeetCode/tree/master/0281-zigzag-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/NithishCodes-2411/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/NithishCodes-2411/LeetCode/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
