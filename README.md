@@ -36,6 +36,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NithishCodes-2411/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NithishCodes-2411/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NithishCodes-2411/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -67,6 +68,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/NithishCodes-2411/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0965-unique-email-addresses](https://github.com/NithishCodes-2411/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/NithishCodes-2411/LeetCode/tree/master/1044-find-common-characters) |
 | [1087-longest-arithmetic-subsequence](https://github.com/NithishCodes-2411/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
