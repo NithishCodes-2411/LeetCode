@@ -10,6 +10,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/NithishCodes-2411/LeetCode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NithishCodes-2411/LeetCode/tree/master/0035-search-insert-position) |
@@ -101,6 +102,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/NithishCodes-2411/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NithishCodes-2411/LeetCode/tree/master/0056-merge-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NithishCodes-2411/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -179,6 +181,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/NithishCodes-2411/LeetCode/tree/master/0016-3sum-closest) |
 | [0443-string-compression](https://github.com/NithishCodes-2411/LeetCode/tree/master/0443-string-compression) |
 | [0875-longest-mountain-in-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
