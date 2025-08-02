@@ -41,6 +41,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NithishCodes-2411/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0682-baseball-game](https://github.com/NithishCodes-2411/LeetCode/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NithishCodes-2411/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/NithishCodes-2411/LeetCode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/NithishCodes-2411/LeetCode/tree/master/0729-my-calendar-i) |
@@ -318,10 +319,15 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/NithishCodes-2411/LeetCode/tree/master/0682-baseball-game) |
 | [1041-available-captures-for-rook](https://github.com/NithishCodes-2411/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [2551-apply-operations-to-an-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Iterator
 |  |
 | ------- |
 | [0281-zigzag-iterator](https://github.com/NithishCodes-2411/LeetCode/tree/master/0281-zigzag-iterator) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/NithishCodes-2411/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
