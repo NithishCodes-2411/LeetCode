@@ -121,6 +121,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0062-unique-paths](https://github.com/NithishCodes-2411/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/NithishCodes-2411/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/NithishCodes-2411/LeetCode/tree/master/0292-nim-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,4 +336,12 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/NithishCodes-2411/LeetCode/tree/master/0682-baseball-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NithishCodes-2411/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NithishCodes-2411/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
