@@ -93,6 +93,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0005-longest-palindromic-substring](https://github.com/NithishCodes-2411/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/NithishCodes-2411/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/NithishCodes-2411/LeetCode/tree/master/0049-group-anagrams) |
+| [0171-excel-sheet-column-number](https://github.com/NithishCodes-2411/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/NithishCodes-2411/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/NithishCodes-2411/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/NithishCodes-2411/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -125,6 +126,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0062-unique-paths](https://github.com/NithishCodes-2411/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/NithishCodes-2411/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NithishCodes-2411/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/NithishCodes-2411/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/NithishCodes-2411/LeetCode/tree/master/0292-nim-game) |
 ## Dynamic Programming
 |  |
