@@ -52,6 +52,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NithishCodes-2411/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/NithishCodes-2411/LeetCode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/NithishCodes-2411/LeetCode/tree/master/0729-my-calendar-i) |
+| [0735-asteroid-collision](https://github.com/NithishCodes-2411/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-longest-mountain-in-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0965-unique-email-addresses](https://github.com/NithishCodes-2411/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0967-minimum-falling-path-sum](https://github.com/NithishCodes-2411/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -349,6 +350,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/NithishCodes-2411/LeetCode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/NithishCodes-2411/LeetCode/tree/master/0735-asteroid-collision) |
 | [1041-available-captures-for-rook](https://github.com/NithishCodes-2411/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [2551-apply-operations-to-an-array](https://github.com/NithishCodes-2411/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Iterator
@@ -359,6 +361,7 @@ Welcome to my LeetCode repository. Solutions to problems can be found in the "My
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/NithishCodes-2411/LeetCode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/NithishCodes-2411/LeetCode/tree/master/0735-asteroid-collision) |
 ## Brainteaser
 |  |
 | ------- |
